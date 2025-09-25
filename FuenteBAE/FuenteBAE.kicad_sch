@@ -2394,7 +2394,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "1000uF"
 			(at 124.46 93.0909 0)
 			(effects
 				(font
@@ -2706,7 +2706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "220Ohm"
 			(at 179.07 93.9799 0)
 			(effects
 				(font
@@ -2980,7 +2980,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1Kohm"
 			(at 238.76 88.8999 0)
 			(effects
 				(font
@@ -3116,7 +3116,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 196.85 106.6799 0)
 			(effects
 				(font
@@ -3414,7 +3414,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "10uF"
 			(at 214.63 93.0909 0)
 			(effects
 				(font
@@ -3572,7 +3572,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_Potentiometer"
+		(property "Value" "5Kohm"
 			(at 162.56 120.6499 0)
 			(effects
 				(font
@@ -3645,7 +3645,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 148.59 106.6799 0)
 			(effects
 				(font
